@@ -11,4 +11,4 @@ gem "middleman-blog"
 gem 'middleman-gh-pages'
 gem "redcarpet"
 gem 'therubyracer', :platforms => :ruby
-gem 'haml', "~> 4.0.7"
+gem 'haml', "~> 5.0.0"
